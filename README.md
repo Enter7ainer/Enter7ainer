@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/e7r.png"  alt="Welcome" width="100"/><br /><img src="https://komarev.com/ghpvc/?username=enter7ainer&style=flat-square&color=orange" alt="Visitors"/><br /><a href="./Donate.md" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy a Coffee" height="41" width="174"></a></p>
+<p align="center"><img src="e7r.png"  alt="Welcome" width="100"/><br /><img src="https://komarev.com/ghpvc/?username=enter7ainer&style=flat-square&color=orange" alt="Visitors"/><br /><a href="./Donate.md" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy a Coffee" height="41" width="174"></a></p>
 
 ---
 
@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enter7ainer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="right"><img src="./images/enter7ainer.png" alt="Visit Enter7ainer.com" width="200"/></p>
+<p align="right"><img src="enter7ainer.png" alt="Visit Enter7ainer.com" width="200"/></p>
